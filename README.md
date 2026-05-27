@@ -44,8 +44,9 @@
 
 ## 🌐 Connect With Me
 
-- Facebook: [Rio Kate Mancia](https://www.facebook.com/share/1CumbFbA6X/)
+- Facebook: [Rio Kate Frias](https://www.facebook.com/share/1CumbFbA6X/)
 - Email: riokatefrias08@gmail.com
+- Website Portfolio: 
 
 ---
 
