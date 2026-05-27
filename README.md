@@ -34,8 +34,10 @@
 - HTML
 - CSS
 - JavaScript
-- Git & GitHub
 - VS Code
+- Php
+- Java
+- MySQL
 
 ---
 
@@ -46,10 +48,10 @@
 
 - Facebook: [Rio Kate Frias](https://www.facebook.com/share/1CumbFbA6X/)
 - Email: riokatefrias08@gmail.com
-- Website Portfolio: 
+- Website: https://rio.xo.je/?i=1
 
 ---
 
 ## ✨ Fun Fact
 
-I enjoy learning new technologies and building creative projects 🚀
+I enjoy learning new technologies and building creative projects 
