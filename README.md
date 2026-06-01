@@ -48,7 +48,7 @@
 
 - Facebook: [Rio Kate Frias](https://www.facebook.com/share/1CumbFbA6X/)
 - Email: riokatefrias08@gmail.com
-- Website: https://rio.xo.je/?i=1
+- Website: https://riokatefrias08-tech.github.io/riokatefrias08-tech/
 
 ---
 
